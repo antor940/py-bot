@@ -11,7 +11,7 @@ client.once('ready', () => {
 });
 
 // login to Discord with your app's token
-client.login('ODA2NDU3NTk1MjYxODc4Mjky.YBpuKQ.oJ7o3aDDezmYZwwQU1PrRq5LNB4');
+client.login('ODA2NDU3NTk1MjYxODc4Mjky.YBpuKQ.Lq7ZoEnviF5oR8k6MFu8bFGrU7E');
 const discord = require('discord.js');
 const Client = new Discord.Client();
 //CLIENT EVENTS
